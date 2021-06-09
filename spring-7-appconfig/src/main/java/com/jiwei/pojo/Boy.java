@@ -1,0 +1,14 @@
+package com.jiwei.pojo;
+
+public class Boy {
+
+    String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}
