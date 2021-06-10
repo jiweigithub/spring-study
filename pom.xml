@@ -23,6 +23,8 @@
         <module>spring-5-autowired</module>
         <module>spring-6-annotation</module>
         <module>spring-7-appconfig</module>
+        <module>spring-8-proxy</module>
+        <module>spring-9-aop</module>
     </modules>
 
     <dependencies>
